@@ -11,7 +11,11 @@ This is the PyTorch implementation of Transformer-Enhanced Adaptive Graph Convol
 You can run main.py to train T-AGCN.
 
 
+## 📌 PEMS08 Dataset Official Source
 
+The PEMS08 dataset is collected from the **Caltrans Performance Measurement System (PeMS)** operated by the California Department of Transportation.
+
+🔗 Official Website: [https://pems.dot.ca.gov/](https://pems.dot.ca.gov/)
 
 
 
