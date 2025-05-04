@@ -8,7 +8,7 @@
 This is the PyTorch implementation of Transformer-Enhanced Adaptive Graph Convolutional Network (T-AGCN) from the paper "Transformer-Enhanced Adaptive Graph Convolutional Network for Traffic Flow Prediction". It is designed to model spatio-temporal dependencies in traffic flow data for accurate traffic forecasting.
 
 # How to run
-You can run main.py to train T-AGCN. (Some datasets require appropriate handling of special values)
+You can run main.py to train T-AGCN. (Some datasets require appropriate preprocessing for special values)
 
 
 ## 📌 PEMS08 Dataset Official Source
